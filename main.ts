@@ -1588,5 +1588,5 @@ img`
 ]
 for (let value of frames) {
     scene.setBackgroundImage(value)
+    pause(200)
 }
-pause(200)
