@@ -2,11 +2,7 @@
     "name": "mitNye",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "multiplayer": "*",
-        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
-        "animation": "*",
-        "sprite-scaling": "*"
+        "device": "*"
     },
     "files": [
         "main.blocks",
